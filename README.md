@@ -1,4 +1,4 @@
-# Soulful Cellar Website
+# Soulful Cellar Promotional Flyer
 
 ## Description
 The Soulful Cellar Website is a static web application designed to promote the Soulful Cellar venue. It provides users with access to audio promotions and information about upcoming events.
