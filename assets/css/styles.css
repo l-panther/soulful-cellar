@@ -180,6 +180,7 @@ header{
   font-size:clamp(2rem, 5vw, 3.4rem);
   line-height:1;
   color:var(--cream);
+  margin-top: 10px;
 }
 
 .tagline{
@@ -198,7 +199,7 @@ header{
 
 .hero{
   position:relative;
-  min-height:620px;
+  min-height:520px;
   display:flex;
   align-items:center;
   padding:120px 0 90px;
@@ -238,7 +239,7 @@ header{
   font-family:var(--font-body);
   font-weight:500;
   letter-spacing:.16em;
-  color:var(--wine-bright);
+  color:var(--cream);
   font-size:.95rem;
   margin-bottom:.5rem;
 }
@@ -726,7 +727,7 @@ footer .copyright{
   /* ---------------- HERO ---------------- */
 
   .hero{
-    min-height:540px;
+    min-height:400px;
     padding-top:145px;
     padding-bottom:55px;
   }
