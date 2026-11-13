@@ -704,10 +704,20 @@ footer{
 
 footer .copyright{
   font-size:.8rem;
+  color:var(--text-dim);
+  padding-bottom: 10px;
+}
+
+footer .credit{
+  font-size:.8rem;
   color:#6E5D5D;
   padding-bottom: 20px;
 }
 
+footer .credit span{
+  font-size:.8rem;
+  color:var(--wine-bright);
+}
 
 /* =========================================================
    MOBILE
